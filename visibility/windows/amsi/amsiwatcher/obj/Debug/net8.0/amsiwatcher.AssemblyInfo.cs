@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("amsiwatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7bf7ed126cc827d5a6774e22fa2fc095412b75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b95844680674d45af3e2a1234a39ab30be39ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("amsiwatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("amsiwatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
