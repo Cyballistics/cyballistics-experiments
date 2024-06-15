@@ -1,0 +1,15 @@
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/bin/Debug/net8.0/amsiwatcher
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/bin/Debug/net8.0/amsiwatcher.deps.json
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/bin/Debug/net8.0/amsiwatcher.runtimeconfig.json
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/bin/Debug/net8.0/amsiwatcher.dll
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/bin/Debug/net8.0/amsiwatcher.pdb
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.AssemblyInfoInputs.cache
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.AssemblyInfo.cs
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.csproj.CoreCompileInputs.cache
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.sourcelink.json
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.dll
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/refint/amsiwatcher.dll
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.pdb
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/amsiwatcher.genruntimeconfig.cache
+/Users/dfirence/Documents/my_code/cyballistics/defender-squad-experiments/visibility/windows/amsi/amsiwatcher/obj/Debug/net8.0/ref/amsiwatcher.dll
