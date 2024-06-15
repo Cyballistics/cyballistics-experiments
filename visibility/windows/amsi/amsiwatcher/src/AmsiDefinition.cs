@@ -124,8 +124,9 @@ public static class AMSIProviderBasic
         }
 
         // The buffer to be scanned
+        var eicar = "X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*";
         byte[] buffer = System.Text.Encoding.UTF8.GetBytes(
-            "Hello World");
+            eicar);
         uint bufferSize = (uint)buffer.Length;
 
         // Allocate unmanaged memory for the buffer
