@@ -1,3 +1,4 @@
+using System;
 using System.Runtime.InteropServices;
 
 namespace AmsiWatcher.AmsiDefinition;
@@ -124,7 +125,7 @@ public static class AMSIProviderBasic
 
         // The buffer to be scanned
         byte[] buffer = System.Text.Encoding.UTF8.GetBytes(
-            "This is a test buffer to be scanned for malware.");
+            "Hello World");
         uint bufferSize = (uint)buffer.Length;
 
         // Allocate unmanaged memory for the buffer
