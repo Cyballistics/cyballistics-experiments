@@ -1,4 +1,5 @@
 ﻿
+using System;
 using AmsiWatcher.AmsiDefinition;
 
 namespace AmsiWatcher
@@ -15,11 +16,7 @@ namespace AmsiWatcher
         static void Main(string[] args)
         {
             // Check if any command-line arguments were passed
-            if (args.Length == 0)
-            {
-                Banner();
-                return;
-            }
+            if (args.Length == 0) { Banner(); }
 
             // Handle the first argument (switch) provided by the user
             switch (args[0].Trim().ToLower())
@@ -58,6 +55,7 @@ namespace AmsiWatcher
                 -t2, --test-get-providers       Reads Windows Registry To List AMSI Registered Providers
             "
             );
+            Environment.Exit(0);
         }
     }
 }
