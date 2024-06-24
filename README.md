@@ -1,4 +1,4 @@
-# defender-squad-experiments
+# Cyballistics Experiments
 
 Simple experiments supporting the #DefenderSquad blogs.
 
