@@ -6,7 +6,7 @@
 * 
 *-------------------------------------------------------------------------------------
 * Author       carlos_diaz | @dfirence
-* About        Applied Conceptual Usage of AMSI API.
+* About        Applied Conceptual Usage Of CreateProcessA(...) with DETACHED child
 * Purpose      Non Production grade, testing and teaching
 *
 * ------------------------------------------------------------------------------------
