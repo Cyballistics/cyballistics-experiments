@@ -1,0 +1,59 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder settings
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.obj
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.res
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.VC.VC.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore directories for Visual Studio and Visual Studio Code build outputs
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/bin/
+**/obj/
+**/.vs/
+
+# Ignore specific directories in your folder structure using glob patterns
+visibility/windows/**/Debug/
+visibility/windows/**/Release/
+visibility/windows/**/x64/
+visibility/windows/**/x86/
+visibility/windows/**/bin/
+visibility/windows/**/obj/
+visibility/windows/**/.vs/
+
+# Ignore other common files and directories
+*.exe
+*.dll
+*.ilk
+*.exp
+*.lib
+*.log
+*.csv
+*.pidb
+*.sln.docstates
+
+# Ignore backup files
+*.bak
+*.swp
+*.tmp
+~$*
+*.tmp
